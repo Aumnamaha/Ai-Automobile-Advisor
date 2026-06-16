@@ -7,7 +7,7 @@ import urllib.error
 import asyncio
 
 # Secure Backend Keys Fallbacks
-GEMINI_API_KEY = "AQ.Ab8RN6IXmBxLuiWjzPgP1wM3gKuhDl_cq9ThUyPc2BObHQDRGw"
+GEMINI_API_KEY = ""
 NVIDIA_NIM_KEY = "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"
 CUSTOM_API_KEY = ""
 
