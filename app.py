@@ -8,7 +8,7 @@ import asyncio
 
 # Secure Backend Keys Fallbacks
 GEMINI_API_KEY = ""
-NVIDIA_NIM_KEY = "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"
+NVIDIA_NIM_KEY = ""
 CUSTOM_API_KEY = ""
 
 # Load keys from environment variables or Streamlit secrets if running in Streamlit
